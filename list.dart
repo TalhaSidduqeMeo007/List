@@ -79,16 +79,59 @@
 // void main() {
 // int one = 1;
 // print("Type of one is ${one.runtimeType}");
-// String oneInString = one.toString(); 
+// String oneInString = one.toString();
 // print("Value of oneInString is $oneInString");
 // // this will print data type
 // print("Type of oneInString is ${oneInString.runtimeType}");
 // }
 
-void main() { 
-   double num1 = 10.01;
-   int num2 = num1.toInt(); // converting double to int
+// void main() {
+//    double num1 = 10.01;
+//    int num2 = num1.toInt(); // converting double to int
 
-  print("The value of num1 is $num1. Its type is ${num1.runtimeType}");
-  print("The value of num2 is $num2. Its type is ${num2.runtimeType}");
+//   print("The value of num1 is $num1. Its type is ${num1.runtimeType}");
+//   print("The value of num2 is $num2. Its type is ${num2.runtimeType}");
+// }
+
+// void main() {
+//   List<String> name = ["raj", "talha", "meo", "tsm"];
+//   print("Value is $name ");
+//   print("this is [0] is ${name[0]}");
+// }
+
+// void main() {
+// List weekday = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+// print(weekday);
+// }
+
+// void main() {
+//   for (var i = 0; i <9; i=i+2) {
+//     print("Talha $i");
+//   }
+//   print ("end loop");
+
+// }
+
+// void main() {
+//   var students = ["talha", "meo", "hamza", "bilal" , 'ali'];
+//   for (var i = 0; i < students.length; i = i + 1)
+//    print(students[i]);
+// }
+
+// void main() {
+//   List<Map> students = [
+//     {"name": "ahmed", "age": 23},
+//     {"name": "Ali", "age": 16},
+//     {"name": "Akram", "age": 18},
+//   ];
+//   for (var i = 0; i < students.length; i++) {
+//     if (i == students.length - 3) {
+//       print(students[i]["age"]);
+//     } else
+//       print(students[i]["name"]);
+//   }
+// }
+
+void main (){
+  
 }
